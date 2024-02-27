@@ -1,2 +1,2 @@
-# renshin
-a boy who seeking an experience in the world that he just knew
+# Game-Project
+Mine Sweeper game for last assignment project at first semester in Algoritma Pemrograman and got A result using cpp
